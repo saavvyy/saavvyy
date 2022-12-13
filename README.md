@@ -14,8 +14,8 @@ A web developer and tailor looking to impact the world in a very positive and ex
 * 🤝  I'm open to collaborating on exciting projects as a DEVELOPER and TAILOR
 * ⚡  I love Manchester United and Messi
 
-<a href="https://www.github.com/ssavy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ssavy?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.twitter.com/s__avvy" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/saavvyy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/saavvyy?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.twitter.com/s__avvy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/s__avvy?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
 /></a>
 
@@ -44,19 +44,19 @@ src="https://img.shields.io/twitter/follow/s__avvy?logo=twitter&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ssavy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/savvy3466" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/s__avvy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/saavvyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/savvy3466" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/s__avvy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ssavy"><img src="https://github-readme-stats.vercel.app/api?username=ssavy&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="ssavy's GitHub stats" /></a>
+<a href="http://www.github.com/saavvyy"><img src="https://github-readme-stats.vercel.app/api?username=saavvyy&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="saavvyy's GitHub stats" /></a>
 
-<a href="http://www.github.com/ssavy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ssavy&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/saavvyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saavvyy&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ssavy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ssavy&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/saavvyy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=saavvyy&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ssavy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssavy&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/saavvyy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saavvyy&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
